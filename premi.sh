@@ -21,8 +21,8 @@ TIME=$(date '+%d %b %Y')
 ipsaya=$(curl -sS ipv4.icanhazip.com)
 TIMES="10"
 CHATID="6648546911"
-KEY="6208481608:AAH8H8-a6DmjXZOJBm_6IJsdfZJ1nTakxJ8"
-URL="https://api.telegram.org/bot$KEY/sendMessage"
+KEY="6952750556:AAGWewWxju37BL6oTGcoPYs7QFn_G0G_TPA"
+URL="https://core.telegram.org/bots/api"
 # ===================
 clear
   # // Exporint IP AddressInformation

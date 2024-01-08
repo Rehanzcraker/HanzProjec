@@ -6,7 +6,7 @@
 </code></pre>
 
 ### UPDATE SCRIPT
-<pre><code>wget https://raw.githubusercontent.com/BvsshXyz/v2/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/Rehanzcraker/HanzProjec/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 
 ### WAJIB IZIN IP CONTACT ADMIN ©FAST VPN
